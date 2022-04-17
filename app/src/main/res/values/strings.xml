@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ArduinoBT_test</string>
+    <!-- Main Activity -->
+    <string name="settings_icon"><font fgcolor='#FFFFFF'>Settings</font></string>
+    <string name="voice_control_icon"><font fgcolor='#FFFFFF'>Voice Control</font></string>
+    <string name="documentation"><font fgcolor='#444444'>Documentation</font></string>
+    <string name="led_setup"><font fgcolor='#444444'>LED Controls</font></string>
+    <!-- Settings Activity -->
+    <string name="led_control"><font fgcolor='#FFFFFF'>LED Control</font></string>
+    <string name="brightness_icon"><font fgcolor='#FFFFFF'>Brightness Control</font></string>
+    <string name="bluetooth_icon"><font fgcolor='#FFFFFF'>Bluetooth Connection</font></string>
+    <string name="bluetooth_search"><font fgcolor='#000000' size='20'>Searching for nearby bluetooth devices</font></string>
+
+    <!-- Documentation Text -->
+    <string name="documentation_text"><font fgcolor='#FFFFFF'>Voice Commands:\n\t\tTurn on LED\n\t\tTurn off LED\n\t\tChange color to \'color\'\n\t\tSet brightness to \'10-100\' percent\n\t\tChange to music mode\n\n\n</font></string>
+
+    <string name="led_colors"><font fgcolor='#FFFFFF'>LED Colors</font></string>
+    <!-- LEDColors Activity -->
+    <string name="initialization"><font fgcolor='#FFFFFF' size='20'>Initialize LEDs</font></string>
+    <string name="color_select"><font fgcolor='#FFFFFF' size='20'>Color Selection</font></string>
+    <string name="modes"><font fgcolor='#FFFFFF' size='20'>Mode Setup</font></string>
+
+    <string name="initialization_label"><font fgcolor='#FFFFFF'>How many LEDs do you want to use:</font></string>
+    <string name="initialization_text"><font fgcolor='#777777'>150</font></string>
+    <string name="select_leds_start_text"><font fgcolor='#FFFFFF'>First LED</font></string>
+    <string name="select_leds_stop_text"><font fgcolor='#FFFFFF'>Last LED</font></string>
+    <string name="select_leds_start"><font fgcolor='#777777'>1</font></string>
+    <string name="select_leds_stop"><font fgcolor='#777777'>15</font></string>
+    <string name="color_red_text"><font fgcolor='#FFFFFF'>Red</font></string>
+    <string name="color_green_text"><font fgcolor='#FFFFFF'>Green</font></string>
+    <string name="color_blue_text"><font fgcolor='#FFFFFF'>Blue</font></string>
+    <string name="intensity_text"><font fgcolor='#FFFFFF'>Brightness</font></string>
+    <string name="accept_button"><font fgcolor='#FFFFFF'>Accept</font></string>
+    <string name="cancel_button"><font fgcolor='#FFFFFF'>Cancel</font></string>
+    <string name="unidirectional_text"><font fgcolor='#FFFFFF' size='20'>Uni-directional</font></string>
+    <string name="bidirectional_text"><font fgcolor='#FFFFFF' size='20'>Bi-directional</font></string>
+    <string name="color_1"><font fgcolor='#FFFFFF'>Color 1</font></string>
+    <string name="color_2"><font fgcolor='#FFFFFF'>Color 2</font></string>
+    <string name="speed_seekbar_label"><font fgcolor='#FFFFFF'>Speed</font></string>
+    <string name="submit_button"><font fgcolor='#FFFFFF'>Submit</font></string>
+    <string name="activate_text"><font fgcolor='#FFFFFF' size='20'>Activate</font></string>
+    <string name="deactivate_text"><font fgcolor='#FFFFFF' size='20'>Deactivate</font></string>
+    <string name="minimum_brightness"><font fgcolor='#FFFFFF' size='15'>Minimum Brightness</font></string>
+    <string name="maximum_brightness"><font fgcolor='#FFFFFF' size='15'>Maximum Brightness</font></string>
+</resources>
